@@ -1,4 +1,9 @@
 <template>
+  <v-app>
+    <v-container>
+      <h3>qwdqdqd</h3>
+    </v-container>
+  </v-app>
   <img alt="Vue logo" src="./assets/logo.png">
   <HelloWorld msg="Welcome to Your Vue.js App"/>
 </template>
