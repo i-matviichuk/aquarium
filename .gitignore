@@ -2,6 +2,7 @@
 node_modules
 /dist
 
+src/template/nlw-lawn-care/.idea
 
 # local env files
 .env.local
